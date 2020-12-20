@@ -1,8 +1,0 @@
-site_name: Semi-Humanoid Documentation
-nav:
-    - Home: index.md
-    - Speech: speech.md
-    - Chatbot: chat.md
-    - Slam: slam.md
-    - Actions: actions.md
-theme: readthedocs
