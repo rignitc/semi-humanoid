@@ -5,4 +5,5 @@ nav:
     - Chatbot: chat.md
     - Slam: slam.md
     - Actions: actions.md
+    - Design; design.md
 theme: readthedocs
